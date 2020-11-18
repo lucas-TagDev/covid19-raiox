@@ -6,24 +6,28 @@ Este projeto consiste em realizar um diagnóstico experimental na detecção da 
 # Estrutura de Diretórios
 notebooks
 10_dataset — 
-           |_ covid  [aqui irão ficar imagens para treinamento do modelo 1]
-           |_ normal [aqui irão ficar imagens para treinamento do modelo 1]
+<br>       |_ covid  [aqui irão ficar imagens para treinamento do modelo 1]
+<br>       |_ normal [aqui irão ficar imagens para treinamento do modelo 1]
+<br>
 20_dataset — 
-           |_ covid  [aqui irão ficar imagens para treinamento do modelo 2]
-           |_ pneumo [aqui irão ficar imagens para treinamento do modelo 2]
+<br>       |_ covid  [aqui irão ficar imagens para treinamento do modelo 2]
+<br>       |_ pneumo [aqui irão ficar imagens para treinamento do modelo 2]
+<br>
 input - 
-      |_ 10_Covid_Imagens _ 
-      |                   |_ [metadata.csv]
-      |                   |_ images [imagens de Covid-19 aqui]
-      |_ 20_Chest_Xray -
-                       |_ test _
-                               |_ NORMAL    [Imagens aqui]
-                               |_ PNEUMONIA [Imagens aqui]
-                       |_ train _
-                                |_ NORMAL    [Imagens aqui]
-                                |_ PNEUMONIA [Imagens aqui]
-model
-dataset_validation _
-                   |_ covid_validation          [Imagens aqui]
-                   |_ non_covidcovid_validation [Imagens aqui]
-                   |_ normal_validation         [Imagens aqui]
+<br>      |_ 10_Covid_Imagens _ 
+<br>      |
+               <br> |_ [metadata.csv]
+               <br> |_ images [imagens de Covid-19 aqui]
+      <br>
+               <br> |_ 20_Chest_Xray -
+                      <br>|_ test _
+                               <br>|_ NORMAL    [Imagens aqui]
+                               <br>|_ PNEUMONIA [Imagens aqui]
+                       <br>|_ train _
+                                <br>|_ NORMAL    [Imagens aqui]
+                                <br>|_ PNEUMONIA [Imagens aqui]
+<br>model
+<br>dataset_validation _
+                   <br>|_ covid_validation          [Imagens aqui]
+                   <br>|_ non_covidcovid_validation [Imagens aqui]
+                   <br>|_ normal_validation         [Imagens aqui]
