@@ -21,8 +21,8 @@ input -
       <br>
                <br> |_ 20_Chest_Xray -
                       <br>|_ test _
-                               <br>|_ NORMAL    [Imagens aqui]
-                               <br>|_ PNEUMONIA [Imagens aqui]
+                               <br>&nbsp|_ NORMAL    [Imagens aqui]
+                               <br>&nbsp|_ PNEUMONIA [Imagens aqui]
                        <br>|_ train _
                                 <br>|_ NORMAL    [Imagens aqui]
                                 <br>|_ PNEUMONIA [Imagens aqui]
