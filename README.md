@@ -34,6 +34,7 @@ input -
 
 <br>
 # Seção de Downloads
+<br>
 Baixe imagens de pacientes com covid-19(Dr.Joseph Paul Cohen PhD):<br>
 Repo Oficial: https://github.com/ieee8023/covid-chestxray-dataset<br>
 Ou em meu Driver pra enconomizar seu tempo:<br>
