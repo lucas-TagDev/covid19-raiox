@@ -41,7 +41,7 @@ Baixe imagens de pacientes com covid-19(Dr.Joseph Paul Cohen PhD):<br>
 Repo Oficial:<a href="https://github.com/ieee8023/covid-chestxray-dataset">Aqui</a><br>
 Ou em meu Driver pra enconomizar seu tempo: <a href="https://drive.google.com/file/d/1H_ECCueOVeJj144_ap9eAANMz5fN2C1G/view?usp=sharing">Aqui</a>
 <br>
-
+<------>
 Baixe as imagens de pacientes com pneumonia:<br>
 Repo Oficial: <a href="https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia">Aqui</a><br>
 Ou em meu Driver pra enconomizar seu tempo: <a href="https://drive.google.com/file/d/1HTPkFVZlHqZGFIB4fZfZSoVxwhC642z8/view?usp=sharing">Aqui</a>
