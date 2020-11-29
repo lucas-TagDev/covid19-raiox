@@ -43,6 +43,6 @@ Ou em meu Driver pra enconomizar seu tempo:<br>
 https://drive.google.com/file/d/1H_ECCueOVeJj144_ap9eAANMz5fN2C1G/view?usp=sharing<br>
 
 Baixe as imagens de pacientes com pneumonia:<br>
-Repo Oficial:https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia<br>
+Repo Oficial: <a href="https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia">Aqui</a>
 Ou em meu Driver pra enconomizar seu tempo:<br>
 https://drive.google.com/file/d/1HTPkFVZlHqZGFIB4fZfZSoVxwhC642z8/view?usp=sharing<br>
